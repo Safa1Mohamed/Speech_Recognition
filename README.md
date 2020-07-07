@@ -6,4 +6,4 @@ The aim of the project is to build an Automatic Speech Recognition(ASR) at a cha
 level of the high resource language (Arabic).
 
 # Dataset 
-The data recorded by Safa Mohamed and Mawada Omer. The data contains 2h30m of speech read from text novel (ba'd hadha alqoronfl: بعض هذا القرنفل) in official Arabic language. It collected using the lig-aikuma android app. It combined from 19 text files, where each text file contains about 50 medium-sentences.
+The data recorded by Safa Mohamed and Mawada Omer. The data contains 2h30m of speech read from text novel (ba'd hadha alqoronfl: بعض هذا القرنفل) in official Arabic language. It collected using the lig-aikuma android app.
